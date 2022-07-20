@@ -7,15 +7,15 @@ global.prems = []
 global.nameowner = 'peltod'
 global.numberowner = '6283871831894'
 global.instagram = 'https://instagram.com/jaunfk_?igshid=YmMyMTA2M2Y=='
-global.github = ''
+global.github = 'https://github.com/peltod'
 global.dana = '-'
-global.pulsa = '0895402127803'
-global.gopay = '089502191993'
+global.pulsa = '085878327057'
+global.gopay = '083871831894'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Anyaあ⁩'
+global.namebot = 'Peltod'
 global.gc = '-'
-global.web = 'https://github.com/Xzcyy' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://github.com/peltod' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Aditタ'
+global.wm = 'Peltod'
 global.watermark = wm
-global.wm2 = '                     「 Anyaあ⁩ 」'
-global.wm3 = 'Anyaあ⁩'
+global.wm2 = '                     「 Peltod⁩ 」'
+global.wm3 = 'Peltod⁩'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
